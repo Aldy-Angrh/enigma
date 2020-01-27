@@ -1,0 +1,11 @@
+/**
+* HelloWold Program
+* By : Aldy Anugrah
+*/
+public class HelloWold {
+    Run|Debug
+    public static void  main(String[]args){
+            system.out.println("HelloWold");
+    }
+
+}
